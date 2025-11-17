@@ -2,7 +2,7 @@
 
 AI 기반 수어 지문자 학습 플랫폼
 
-## 공학제 졸업 논문
+## 캡스톤디자인 졸업 논문
 
 📖 **[졸업논문](https://online.fliphtml5.com/cheringring/zbld/)**
 
