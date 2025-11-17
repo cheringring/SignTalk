@@ -7,7 +7,7 @@ AI 기반 수어 지문자 학습 플랫폼
 📖 **[졸업논문](https://online.fliphtml5.com/cheringring/zbld/)**
 
 ## 졸업작품결과보고서 개인
-**[결과보고서](https://online.fliphtml5.com/cheringring/floj/)**
+📖 **[결과보고서](https://online.fliphtml5.com/cheringring/floj/)**
 
 ## 전국공학대전 제출
 
